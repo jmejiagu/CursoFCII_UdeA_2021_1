@@ -5,3 +5,16 @@ Por favor, haga el ejercicio 7 de la sección 11.5 del texto guiá.
 rianza(). La función calc_prom() deberá calcular y devolver el promedio de
 los valores almacenados en el arreglo llamado valores_prueba ............"
 
+Tarea2. (Vale 2/3 del Seguimiento 2).
+Modifique el programa de la la clase 7 "barajarcartas", de manera que la función para repartir cartas reparta una mano de póquer de
+cinco cartas. Después escriba funciones para realizar cada una de las siguientes acciones:
+
+a) Determinar si la mano contiene un par.
+b) Determinar si la mano contiene dos pares.
+c) Determinar si la mano contiene tres cartas de un tipo ( por ejemplo, tres Bastos).
+d) Determinar si la mano contiene cuatro cartas de un tipo ( por ejemplo, cuatro Espadas).
+e) Determinar si la mano contiene un “flush” (es decir, cinco cartas del mismo palo).
+f) Determinar si la mano contiene cinco cartas con valores de cara consecutivos.
+
+Opcional: Use las funciones desarrolladas en el ejercicio 8.12 para escribir un programa que reparta dos manos de póquer de cinco
+cartas, que evalúe cada mano y determine cuál es mejor.
