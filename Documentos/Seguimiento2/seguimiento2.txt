@@ -16,5 +16,5 @@ d) Determinar si la mano contiene cuatro cartas de un tipo ( por ejemplo, cuatro
 e) Determinar si la mano contiene un “flush” (es decir, cinco cartas del mismo palo).
 f) Determinar si la mano contiene cinco cartas con valores de cara consecutivos.
 
-Opcional: Use las funciones desarrolladas en el ejercicio 8.12 para escribir un programa que reparta dos manos de póquer de cinco
+Opcional: Use las funciones desarrolladas en el ejercicio anterior para escribir un programa que reparta dos manos de póquer de cinco
 cartas, que evalúe cada mano y determine cuál es mejor.
